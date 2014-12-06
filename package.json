@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Example which describes how to use the ndm module.",
   "license": "MIT",
+  "scripts": {
+    "install": "ndm install",
+    "start": "ndm start",
+    "stop": "ndm stop",
+    "remove": "ndm remove"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/npmawesome/example-ndm"

@@ -8,15 +8,14 @@ This example refers to the article on [nodejitsu.com](http://blog.nodejitsu.com/
     cd example-ndm
     npm install
 
-    # notice it's `ndm` not `npm`
-    ndm install
-    ndm start
+    npm run install
+    npm run start
 
     # then see ./logs
 
     # to cleanup
-    ndm stop
-    ndm remove
+    npm run stop
+    npm run remove
 
 ## License
 
