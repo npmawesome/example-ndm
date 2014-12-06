@@ -6,10 +6,7 @@
     },
     "processes": 4,
     "env": {
-      "DELAY": "5000"
-    },
-    "args": {
-      "--verbose": "false"
+      "DELAY": "3000"
     }
   }
 }
