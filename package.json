@@ -1,0 +1,13 @@
+{
+  "name": "example-ndm",
+  "version": "1.0.0",
+  "description": "Example which describes how to use the ndm module.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmawesome/example-ndm"
+  },
+  "dependencies": {
+    "ndm": "^3.7.2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "example-service": {
+    "description": "Example which describes how to use the ndm module.",
+    "scripts": {
+      "start": "./index.js"
+    },
+    "processes": 4,
+    "env": {
+      "DELAY": "5000"
+    },
+    "args": {
+      "--verbose": "false"
+    }
+  }
+}
